@@ -15,8 +15,8 @@ CTPN(2016)
 #### 2_文本识别
 
 ```
-CRNN
 CharNet(2019)
+CRNN
 ```
 
 #### 3_文本检测+识别
@@ -49,7 +49,13 @@ CRNN算法详解 https://blog.csdn.net/liuxiaoheng1992/article/details/88826043
 
 CRNN实现不定长中文字符识别 https://blog.csdn.net/Sierkinhane/article/details/82857572
 
+#### 8_CharNet
 
+https://arxiv.org/pdf/1910.07954.pdf
+
+https://github.com/MalongTech/research-charnet
+
+CharNet算法详解 https://blog.csdn.net/WZZ18191171661/article/details/102988721
 
 
 
