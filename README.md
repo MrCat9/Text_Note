@@ -41,6 +41,13 @@ https://github.com/clovaai/CRAFT-pytorch
 
 https://demo.ocr.clova.ai/
 
+#### 7_CRNN
+
+CRNN算法详解 https://blog.csdn.net/liuxiaoheng1992/article/details/88826043
+
+一文读懂CRNN+CTC文字识别 https://zhuanlan.zhihu.com/p/43534801
+
+CRNN实现不定长中文字符识别 https://blog.csdn.net/Sierkinhane/article/details/82857572
 
 
 
