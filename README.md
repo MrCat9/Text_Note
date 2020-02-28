@@ -43,6 +43,10 @@ https://demo.ocr.clova.ai/
 
 #### 7_CRNN
 
+https://github.com/bgshih/crnn
+
+https://github.com/meijieru/crnn.pytorch
+
 CRNN算法详解 https://blog.csdn.net/liuxiaoheng1992/article/details/88826043
 
 一文读懂CRNN+CTC文字识别 https://zhuanlan.zhihu.com/p/43534801
