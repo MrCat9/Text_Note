@@ -2,6 +2,8 @@
 
 ## 目录
 
+https://github.com/hwalsuklee/awesome-deep-text-detection-recognition
+
 ### 1_文本检测
 
 ```
