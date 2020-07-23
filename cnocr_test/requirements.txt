@@ -20,10 +20,10 @@ pyclipper==1.2.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pywin32==228
-requests==2.18.4
+requests==2.24.0
 scipy==1.5.1
 Shapely==1.7.0
 six==1.15.0
 tensorboardX==2.1
 tqdm==4.48.0
-urllib3==1.22
+urllib3==1.25.10
