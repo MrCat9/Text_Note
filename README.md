@@ -72,3 +72,15 @@ https://arxiv.org/pdf/1910.07954.pdf
 https://github.com/MalongTech/research-charnet
 
 CharNet算法详解 https://blog.csdn.net/WZZ18191171661/article/details/102988721
+
+[4_cnocr和cnstd](https://github.com/MrCat9/Text_Note/tree/master/cnocr_test)
+
+[cnocr GitHub地址](https://github.com/breezedeus/cnocr)
+
+[cnstd GitHub地址](https://github.com/breezedeus/cnstd)
+
+```
+cnocr -> 中文OCR
+cnstd -> 中文文本检测
+```
+
