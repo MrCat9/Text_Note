@@ -7,6 +7,7 @@ import cv2
 
 cn_ocr = CnOcr(root='cnocr_model')
 
-img = cv2.imread('data/tt14.png')
+# img = cv2.imread('data/tt15.png')
+img = cv2.imread('data/tt16.png')
 ocr_res = cn_ocr.ocr_for_single_line(img)
 print('ocr result: %s' % ''.join(ocr_res))
