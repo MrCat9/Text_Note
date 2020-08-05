@@ -6,14 +6,14 @@ from cnocr import CnOcr  # pip install cnocr  # 中文OCR
 import cv2  # pip install opencv-python
 
 
-# std = CnStd()
+# cn_std = CnStd()
 # cn_ocr = CnOcr()
-std = CnStd(root='cnstd_model')  # 删除 cnstd_model 目录下的模型，再运行，可重新下载
+cn_std = CnStd(root='cnstd_model')  # 删除 cnstd_model 目录下的模型，再运行，可重新下载
 cn_ocr = CnOcr(root='cnocr_model')
 
 
-box_info_list = std.detect('data/tt09.png')
-box_info_list = std.detect('data/tt14.png')
+# box_info_list = cn_std.detect('data/tt09.png')
+box_info_list = cn_std.detect('data/tt14.png')
 
 for box_info in box_info_list:
     cropped_img = box_info['cropped_img']  # 检测出的文本框
