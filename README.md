@@ -84,3 +84,4 @@ cnocr -> 中文OCR
 cnstd -> 中文文本检测
 ```
 
+#### 5_[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
