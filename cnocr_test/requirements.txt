@@ -10,7 +10,7 @@ idna==2.6
 kiwisolver==1.2.0
 matplotlib==3.3.0
 mxnet==1.6.0
-numpy==1.21
+numpy==1.22.0
 opencv-python==4.3.0.36
 Pillow==9.0.0
 Polygon3==3.0.8
